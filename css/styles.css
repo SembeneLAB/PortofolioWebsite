@@ -521,7 +521,7 @@ input[type='checkbox'] {
 .header {
 	padding-top: 7rem;
 	padding-bottom: 5.5rem;
-	background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url('../images/header-background.jpg') center center no-repeat;
+	background-color: #24262a;
 	background-size: cover;
 	text-align: center;
 }
@@ -644,85 +644,7 @@ input[type='checkbox'] {
 }
 
 
-/********************/
-/*     Projects     */
-/********************/
-.basic-3 {
-	padding-top: 7.75rem;
-	padding-bottom: 1rem;
-}
 
-.basic-3 .h2-heading {
-	margin-bottom: 0.75rem;
-	text-align: center;
-}
-
-.basic-3 .p-heading {
-	margin-bottom: 4rem;
-	text-align: center;
-}
-
-.basic-3 .text-container {
-	margin-bottom: 4rem;
-}
-
-.basic-3 .image-container {
-	margin-bottom: 1rem;
-}
-
-/* Hover Animation */
-.basic-3 .image-container {
-	overflow: hidden;
-	margin-right: auto;
-	margin-left: auto;
-}
-
-.basic-3 .image-container img {
-	margin: 0;
-	transition: all 0.2s;
-}
-
-.basic-3 .image-container:hover img {
-	-moz-transform: scale(1.1);
-	-webkit-transform: scale(1.1);
-	transform: scale(1.1);
-} 
-/* end of hover animation */
-
-
-/*****************/
-/*     Works     */
-/*****************/
-.basic-4 {
-	padding-bottom: 1rem;
-}
-
-.basic-4 .text-container {
-	margin-bottom: 4rem;
-}
-
-.basic-4 .image-container {
-	margin-bottom: 1rem;
-}
-
-/* Hover Animation */
-.basic-4 .image-container {
-	overflow: hidden;
-	margin-right: auto;
-	margin-left: auto;
-}
-
-.basic-4 .image-container img {
-	margin: 0;
-	transition: all 0.2s;
-}
-
-.basic-4 .image-container:hover img {
-	-moz-transform: scale(1.15);
-	-webkit-transform: scale(1.15);
-	transform: scale(1.15);
-} 
-/* end of hover animation */
 
 
 /************************/
